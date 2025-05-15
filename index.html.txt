@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Strugly Widget Proxy</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: transparent;
+    }
+    iframe {
+      border: none;
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://strugly.com/inc/widget.php?widget_type=widget-circle&player=4d77b63a-4695-48a4-92aa-feff907543e9&secret=3c9f34cb56643513b92e9dbf0bc4b055" allowtransparency="true"></iframe>
+</body>
+</html>
